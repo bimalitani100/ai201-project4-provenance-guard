@@ -295,10 +295,7 @@ done
 ```
 
 **Expected output (first 10 return 200, then 429):**
-```
-200
-200
-200
+rate limit evidence:
 200
 200
 200
@@ -308,7 +305,9 @@ done
 200
 429
 429
-```
+429
+429
+429
 
 ---
 
